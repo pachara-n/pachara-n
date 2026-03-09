@@ -64,10 +64,15 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
+### 🐍 Activity snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pachara-n/pachara-n/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pachara-n/pachara-n/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pachara-n/pachara-n/output/github-contribution-grid-snake.svg">
+</picture>
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pachara-n&theme=dark" alt="pachara-n streak" />
-</p>
+</p> -->
 
 ---
 <p align="center">📫 Reach me at: <b>pacharanokroy2003@gmail.com</b></p>
