@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Education:** Software Engineering student
-- 🌱 **Learning:** Currently Learning Full Stack Web Development**
+- 🌱 **Learning:** Currently Learning Full Stack Web Development **
 - 💬 **Ask me about:** **Full-stack development**
 - ⚡ **Fun fact:** I'm an investor in tech stocks and enjoy playing game
 
