@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pachara Nokroy</h1>
-<h3 align="center">A passionate Full-stack Developer from Thailand (Graduating April 2026)</h3>
+<h3 align="center">A passionate Full-stack Developer from Thailand</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--stack%20Development-blue?style=flat-square">
