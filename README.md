@@ -9,12 +9,16 @@
 ---
 
 ### 👨‍💻 About Me
-"Software Developer with a passion for coding and an interest in tech trends."
+> *Software Developer with a passion for coding and an interest in tech trends.*
 - 🎓 **Education:** B.S. in Software Engineering
 - 🚀 **Current Focus:** Building AI-driven developer tools and scalable web architectures
 - 💬 **Ask me about:** Full-stack development with a focus on Backend & AI
 - ⚡ **Fun fact:** Tech stock investor & tech enthusiast
 
+---
+### 🌱 Currently Exploring & AI Tools
+- **Learning:** RAG, Cloud, and AI Agents Architecture.
+- **AI Companions:** <img src="https://img.shields.io/badge/GitHub_Copilot-White?style=flat-square&logo=githubcopilot&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 ---
 
 ### 🚀 Tech Stack & Tools
