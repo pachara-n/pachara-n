@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Education:** B.S. in Software Engineering
-- 🌱 **Learning:** Building AI-driven developer tools and scalable web architectures
+- 🚀 **Current Focus:** Building AI-driven developer tools and scalable web architectures
 - 💬 **Ask me about:** Full-stack development with a focus on Backend & AI
 - ⚡ **Fun fact:** I bridge the gap between Tech Markets and Software Development
 
