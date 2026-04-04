@@ -9,10 +9,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Education:** Software Engineering student
-- 🌱 **Learning:** Currently Learning Full Stack Web Development 
-- 💬 **Ask me about:** **Full-stack development**
-- ⚡ **Fun fact:** I'm an investor in tech stocks and enjoy playing game
+- 🎓 **Education:** B.S. in Software Engineering
+- 🌱 **Learning:** Building AI-driven developer tools and scalable web architectures
+- 💬 **Ask me about:** Full-stack development with a focus on Backend & AI
+- ⚡ **Fun fact:** I bridge the gap between Tech Markets and Software Development
 
 ---
 
