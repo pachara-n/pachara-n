@@ -16,10 +16,6 @@
 - ⚡ **Fun fact:** Tech stock investor & tech enthusiast
 
 ---
-### 🌱 Currently Exploring & AI Tools
-- **Learning:** RAG, Cloud, and AI Agents Architecture.
-- **AI Companions:** <img src="https://img.shields.io/badge/GitHub_Copilot-White?style=flat-square&logo=githubcopilot&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
----
 
 ### 🚀 Tech Stack & Tools
 
