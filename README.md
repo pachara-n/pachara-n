@@ -57,7 +57,7 @@
 **🧪 Testing & QA**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/TestSprite-Auto%20QA-%23000000?style=for-the-badge&logo=robot&logoColor=white" alt="testsprite" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40"/>
 </p>
 
 **🔧 DevTools & Others**
