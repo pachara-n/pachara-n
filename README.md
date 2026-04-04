@@ -54,6 +54,12 @@
   <img src="https://cdn.simpleicons.org/strapi/4945FF" alt="strapi" width="40" height="40"/>
 </p>
 
+**🧪 Testing & QA**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/TestSprite-Auto%20QA-%23000000?style=for-the-badge&logo=robot&logoColor=white" alt="testsprite" height="40"/>
+</p>
+
 **🔧 DevTools & Others**
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -61,6 +67,9 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="cloudflare" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="github pages" width="40" height="40"/>
 </p>
 
 ---
