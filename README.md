@@ -9,10 +9,11 @@
 ---
 
 ### 👨‍💻 About Me
+"Software Developer with a passion for coding and an interest in tech trends."
 - 🎓 **Education:** B.S. in Software Engineering
 - 🚀 **Current Focus:** Building AI-driven developer tools and scalable web architectures
 - 💬 **Ask me about:** Full-stack development with a focus on Backend & AI
-- ⚡ **Fun fact:** I bridge the gap between Tech Markets and Software Development
+- ⚡ **Fun fact:** Tech stock investor & tech enthusiast
 
 ---
 
