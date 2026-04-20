@@ -21,45 +21,24 @@
 
 ### 🚀 Tech Stack & Tools
 
-**💻 Languages**
+### 💻 Core & Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,tailwind" />
   </a>
 </p>
 
-**🎨 Frontend Development**
+### ⚙️ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,mongodb,redis,supabase,strapi" />
   </a>
 </p>
 
-**⚙️ Backend Development**
+### 🛠️ Infrastructure & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-  </a>
-</p>
-
-**🗄️ Databases & BaaS**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,strapi" />
-  </a>
-</p>
-
-**🧪 Testing & QA**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,vitest" />
-  </a>
-</p>
-
-**🔧 DevTools & Others**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,cloudflare,aws,vercel,github" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,cloudflare,aws,vercel,github,jest,vitest" />
   </a>
 </p>
 
