@@ -1,23 +1,25 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pachara Nokroy
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pachara Nokroy (James)
 </h1>
-<h3 align="center">A passionate Full-stack Developer from Thailand</h3>
+
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--stack%20Development-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Interest-Personal%20Finance%20%26%20Investing-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Interest-Backend%20APIs%20%26%20Maintainable%20Systems-green?style=flat-square">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-> *Software Developer with a passion for coding and an interest in tech trends.*
-- 🎓 **Education:** B.S. in Software Engineering
-- 🚀 **Current Focus:** Building AI-driven developer tools and scalable web architectures
-- 💬 **Ask me about:** Full-stack development with a focus on Backend & AI
-- ⚡ **Fun fact:** Tech stock investor & tech enthusiast
 
----
+> Recent Software Engineering graduate with first-class honors and 1 year of hands-on experience building business web applications at GreenHub.
+
+- 🎓 **Education:** B.Sc. in Software Engineering — First-class Honors (GPA: 3.60)
+- 💼 **Experience:** Worked across frontend, backend, databases, integrations, and deployment in a small-company environment
+- 🚀 **Current Focus:** Full-stack development, backend APIs, maintainable systems, and real-world business workflows
+- 💬 **Ask me about:** TypeScript, React, Next.js, NestJS, PostgreSQL, and API integrations
+- ⚡ **Fun fact:** Tech enthusiast & personal finance/investing interest
 
 ### 🚀 Tech Stack & Tools
 
