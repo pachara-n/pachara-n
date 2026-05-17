@@ -2,7 +2,7 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pachara Nokroy (James)
 </h1>
 
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer focused on real-world business applications</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--stack%20Development-blue?style=flat-square">
