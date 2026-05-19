@@ -15,7 +15,7 @@
 
 > Recent Software Engineering graduate with first-class honors and 1 year of hands-on experience building business web applications at GreenHub.
 
-- 🎓 **Education:** B.Sc. in Software Engineering — First-class Honors (GPA: 3.60)
+- 🎓 **Education:** B.Sc. in Software Engineering 
 - 💼 **Experience:** Worked across frontend, backend, databases, integrations, and deployment in a small-company environment
 - 🚀 **Current Focus:** Full-stack development, backend APIs, maintainable systems, and real-world business workflows
 - 💬 **Ask me about:** TypeScript, React, Next.js, NestJS, PostgreSQL, and API integrations
