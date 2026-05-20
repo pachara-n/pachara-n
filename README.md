@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-> Recent Software Engineering graduate with first-class honors and 1 year of hands-on experience building business web applications at GreenHub.
+> Recent Software Engineering graduate with 1 year of hands-on experience building business web applications.
 
 - 🎓 **Education:** B.Sc. in Software Engineering 
 - 💼 **Experience:** Worked across frontend, backend, databases, integrations, and deployment in a small-company environment
