@@ -23,24 +23,46 @@
 
 ### 🚀 Tech Stack & Tools
 
-### 💻 Core & Frontend
+#### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,php,py,html,css" alt="JavaScript, TypeScript, Java, PHP, Python, HTML, and CSS" />
   </a>
 </p>
 
-### ⚙️ Backend & Databases
+#### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,mongodb,redis,supabase,strapi" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind" alt="React, Next.js, Vue.js, Nuxt.js, and Tailwind CSS" />
   </a>
 </p>
 
-### 🛠️ Infrastructure & Tools
+#### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,cloudflare,aws,vercel,github,jest,vitest" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel" alt="Node.js, NestJS, Express, and Laravel" />
+  </a>
+  <img src="https://cdn.simpleicons.org/trpc/2596BE" alt="tRPC" width="48" height="48" />
+</p>
+
+#### Database & BaaS
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,strapi" alt="PostgreSQL, MySQL, MongoDB, Redis, Supabase, and Strapi" />
+  </a>
+</p>
+
+#### Testing & QA
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,vitest" alt="Jest and Vitest" />
+  </a>
+</p>
+
+#### Tools & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,cloudflare,aws,vercel" alt="Git, GitHub, Docker, Postman, Linux, Cloudflare, AWS, and Vercel" />
   </a>
 </p>
 
