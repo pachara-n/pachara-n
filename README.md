@@ -23,46 +23,25 @@
 
 ### 🚀 Tech Stack & Tools
 
-#### Languages
+### 💻 Core & Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,php,py,html,css" alt="JavaScript, TypeScript, Java, PHP, Python, HTML, and CSS" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,php,py,html,css,react,nextjs,vue,nuxtjs,tailwind" alt="Languages and frontend technologies" />
   </a>
 </p>
 
-#### Frontend
+### ⚙️ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind" alt="React, Next.js, Vue.js, Nuxt.js, and Tailwind CSS" />
-  </a>
-</p>
-
-#### Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel" alt="Node.js, NestJS, Express, and Laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,postgres,mysql,mongodb,redis,supabase,strapi" alt="Backend and database technologies" />
   </a>
   <img src="https://cdn.simpleicons.org/trpc/2596BE" alt="tRPC" width="48" height="48" />
 </p>
 
-#### Database & BaaS
+### 🛠️ Infrastructure & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,strapi" alt="PostgreSQL, MySQL, MongoDB, Redis, Supabase, and Strapi" />
-  </a>
-</p>
-
-#### Testing & QA
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,vitest" alt="Jest and Vitest" />
-  </a>
-</p>
-
-#### Tools & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,cloudflare,aws,vercel" alt="Git, GitHub, Docker, Postman, Linux, Cloudflare, AWS, and Vercel" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,cloudflare,aws,vercel,github,jest,vitest" alt="Infrastructure, development, and testing tools" />
   </a>
 </p>
 
