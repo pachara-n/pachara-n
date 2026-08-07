@@ -33,8 +33,9 @@
 ### ⚙️ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,postgres,mysql,mongodb,redis,supabase,strapi" alt="Backend and database technologies" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,postgres,mysql,mongodb,redis,supabase" alt="Backend and database technologies" />
   </a>
+  <img src="https://cdn.simpleicons.org/strapi/4945FF" alt="Strapi" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/trpc/2596BE" alt="tRPC" width="48" height="48" />
 </p>
 
