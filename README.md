@@ -26,17 +26,15 @@
 ### 💻 Core & Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,php,py,html,css,react,nextjs,vue,nuxtjs,tailwind" alt="Languages and frontend technologies" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,tailwind" alt="Languages and frontend technologies" />
   </a>
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,postgres,mysql,mongodb,redis,supabase" alt="Backend and database technologies" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,mongodb,redis,supabase" alt="Backend and database technologies" />
   </a>
-  <img src="https://cdn.simpleicons.org/strapi/4945FF" alt="Strapi" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/trpc/2596BE" alt="tRPC" width="48" height="48" />
 </p>
 
 ### 🛠️ Infrastructure & Tools
