@@ -33,14 +33,14 @@
 ### ⚙️ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,mongodb,redis,supabase" alt="Backend and database technologies" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,mongodb,redis" alt="Backend and database technologies" />
   </a>
 </p>
 
 ### 🛠️ Infrastructure & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,cloudflare,aws,vercel,github,jest,vitest" alt="Infrastructure, development, and testing tools" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,cloudflare,vercel,github,jest,vitest" alt="Infrastructure, development, and testing tools" />
   </a>
 </p>
 
