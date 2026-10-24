@@ -46,6 +46,17 @@
   </a>
 </p>
 
+### 🤖 AI Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/pachara-n/pachara-n/main/assets/ai-tools/codex-color.svg" width="48" height="48" alt="OpenAI Codex" title="OpenAI Codex" />
+  <img src="https://raw.githubusercontent.com/pachara-n/pachara-n/main/assets/ai-tools/claudecode-color.svg" width="48" height="48" alt="Claude Code" title="Claude Code" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pachara-n/pachara-n/main/assets/ai-tools/cursor-white.svg" />
+    <img src="https://raw.githubusercontent.com/pachara-n/pachara-n/main/assets/ai-tools/cursor.svg" width="48" height="48" alt="Cursor" title="Cursor" />
+  </picture>
+  <img src="https://raw.githubusercontent.com/pachara-n/pachara-n/main/assets/ai-tools/antigravity-color.svg" width="48" height="48" alt="Google Antigravity" title="Google Antigravity" />
+</p>
+
 ---
 
 ### 💣 Activity Bomberman
