@@ -44,10 +44,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,cloudflare,vercel,github,jest,vitest" alt="Infrastructure, development, and testing tools" />
   </a>
-</p>
-
-### 🤖 AI Tools
-<p align="left">
   <img src="https://raw.githubusercontent.com/pachara-n/pachara-n/main/assets/ai-tools/codex-color.svg" width="48" height="48" alt="OpenAI Codex" title="OpenAI Codex" />
   <img src="https://raw.githubusercontent.com/pachara-n/pachara-n/main/assets/ai-tools/claudecode-color.svg" width="48" height="48" alt="Claude Code" title="Claude Code" />
   <picture>
