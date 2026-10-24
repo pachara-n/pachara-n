@@ -46,19 +46,15 @@
 
 ---
 
-### 🐍 Activity Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pachara-n/pachara-n/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pachara-n/pachara-n/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pachara-n/pachara-n/output/github-contribution-grid-snake.svg">
-</picture>
+<h3 align="center">💣 Activity Bomberman</h3>
 
-### 💣 Activity Bomberman
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pachara-n/pachara-n/output/bombgrid-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pachara-n/pachara-n/output/bombgrid.svg">
   <img alt="My contribution graph played as a game of Bomberman" src="https://raw.githubusercontent.com/pachara-n/pachara-n/output/bombgrid.svg">
 </picture>
+</p>
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pachara-n&theme=dark" alt="pachara-n streak" />
