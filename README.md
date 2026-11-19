@@ -7,17 +7,11 @@
   </picture>
 </a>
 
-<br/>
+<!-- <br/>
 
-`↗` **[pachara.app](https://pachara.app)** &nbsp;&nbsp;·&nbsp;&nbsp; `in` **[LinkedIn](https://www.linkedin.com/in/pachara-nokroy)** &nbsp;&nbsp;·&nbsp;&nbsp; `@` **[Email](mailto:pacharanokroy2003@gmail.com)**
+`↗` **[pachara.app](https://pachara.app)** &nbsp;&nbsp;·&nbsp;&nbsp; `in` **[LinkedIn](https://www.linkedin.com/in/pachara-nokroy)** &nbsp;&nbsp;·&nbsp;&nbsp; `@` **[Email](mailto:pacharanokroy2003@gmail.com)** -->
 
 </div>
-
-> **Pachara Nokroy (พชร นกลอย)** — End-to-end ownership from UI and API design to relational data modeling, third-party integrations, and maintainable production systems.
-
-```text
-UI (Next.js / LIFF)  →  API (NestJS / Express)  →  Data (PostgreSQL / Redis)  →  Integrations (Meta / LINE / Google)
-```
 
 ### `projects.ts`
 
