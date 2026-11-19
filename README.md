@@ -7,17 +7,17 @@
   </picture>
 </a>
 
-<br/><br/>
+<br/>
 
-`↗` **[pachara.app](https://pachara.app)** &nbsp;&nbsp;·&nbsp;&nbsp; `in` **[LinkedIn](https://www.linkedin.com/in/pachara-nokroy-149716393/)** &nbsp;&nbsp;·&nbsp;&nbsp; `@` **[Email](mailto:pacharanokroy2003@gmail.com)**
+`↗` **[pachara.app](https://pachara.app)** &nbsp;&nbsp;·&nbsp;&nbsp; `in` **[LinkedIn](https://www.linkedin.com/in/pachara-nokroy)** &nbsp;&nbsp;·&nbsp;&nbsp; `@` **[Email](mailto:pacharanokroy2003@gmail.com)**
 
 </div>
 
-<br/>
+> **Pachara Nokroy (พชร นกลอย)** — End-to-end ownership from UI and API design to relational data modeling, third-party integrations, and maintainable production systems.
 
-**Pachara Nokroy (พชร นกลอย)** — Backend-leaning Full-Stack Developer in Thailand (*B.Sc. Software Engineering, First-Class Honors, Burapha University*). I build production web applications, APIs, database systems, and developer tooling.
-
-<br/>
+```text
+UI (Next.js / LIFF)  →  API (NestJS / Express)  →  Data (PostgreSQL / Redis)  →  Integrations (Meta / LINE / Google)
+```
 
 ### `projects.ts`
 
