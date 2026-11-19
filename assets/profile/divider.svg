@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 8" width="900" height="8" role="presentation">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#818cf8" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.95"/>
+      <stop offset="70%" stop-color="#818cf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="line-clip">
+      <rect x="0" y="3" width="900" height="2" rx="1"/>
+    </clipPath>
+  </defs>
+  <style>
+    .sweep { animation: sweep 4.5s ease-in-out infinite; }
+    @keyframes sweep {
+      0% { transform: translateX(-520px); }
+      50% { transform: translateX(520px); }
+      100% { transform: translateX(-520px); }
+    }
+    @media (prefers-reduced-motion: reduce) { .sweep { animation: none; } }
+  </style>
+  <rect x="0" y="3" width="900" height="2" rx="1" fill="#818cf8" fill-opacity="0.16"/>
+  <g clip-path="url(#line-clip)">
+    <rect class="sweep" x="250" y="3" width="400" height="2" fill="url(#bar)"/>
+  </g>
+</svg>

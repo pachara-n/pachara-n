@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" width="900" height="96" role="img" aria-label="Animated indigo wave footer">
+  <defs>
+    <linearGradient id="wave-back-d" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.45"/>
+      <stop offset="48%" stop-color="#38bdf8" stop-opacity="0.24"/>
+      <stop offset="82%" stop-color="#161b22" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wave-front-d" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.88"/>
+      <stop offset="42%" stop-color="#3b82f6" stop-opacity="0.45"/>
+      <stop offset="76%" stop-color="#161b22" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="wave-clip-d">
+      <rect x="0" y="0" width="900" height="96"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .w1 { animation: slide1 9s ease-in-out infinite alternate; }
+    .w2 { animation: slide2 6.5s ease-in-out infinite alternate; }
+    @keyframes slide1 {
+      0% { transform: translateX(0px); }
+      100% { transform: translateX(-90px); }
+    }
+    @keyframes slide2 {
+      0% { transform: translateX(-70px); }
+      100% { transform: translateX(20px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .w1, .w2 { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#wave-clip-d)">
+    <path class="w1" fill="url(#wave-back-d)" d="M-120,42 C80,10 260,72 480,44 C700,16 860,64 1080,38 L1080,100 L-120,100 Z"/>
+    <path class="w2" fill="url(#wave-front-d)" d="M-120,54 C110,82 310,24 540,54 C760,82 910,32 1080,54 L1080,100 L-120,100 Z"/>
+  </g>
+</svg>

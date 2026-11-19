@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 296" width="900" height="296" role="img" aria-label="VS Code editor profile of Pachara Nokroy (พชร นกลอย)">
+  <defs>
+    <linearGradient id="ide-bg-d" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="100%" stop-color="#101626"/>
+    </linearGradient>
+    <clipPath id="ide-clip-d">
+      <rect x="0" y="0" width="900" height="296" rx="12"/>
+    </clipPath>
+  </defs>
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 13px; }
+    .ui { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11.5px; }
+    .th { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans Thai", Tahoma, sans-serif; font-size: 13px; fill: #a5b4fc; }
+    .ln { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 12px; fill: #475569; text-anchor: end; }
+    .kw { fill: #c084fc; }
+    .tp { fill: #38bdf8; }
+    .id { fill: #f8fafc; }
+    .pr { fill: #93c5fd; }
+    .str { fill: #86efac; }
+    .cm { fill: #64748b; font-style: italic; }
+    .pun { fill: #64748b; }
+    .sb-txt { fill: #94a3b8; }
+    .sb-act { fill: #f8fafc; font-weight: 600; }
+    .bar-txt { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 11px; fill: #cbd5e1; }
+    .cur { animation: blink 1.05s step-end infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cur { animation: none; } }
+  </style>
+
+  <g clip-path="url(#ide-clip-d)">
+    <rect width="900" height="296" fill="url(#ide-bg-d)"/>
+
+    <!-- Top Tab Bar -->
+    <rect width="900" height="36" fill="#131926"/>
+    <line x1="0" y1="36" x2="900" y2="36" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="20" cy="18" r="5" fill="#f87171" fill-opacity="0.88"/>
+    <circle cx="36" cy="18" r="5" fill="#fbbf24" fill-opacity="0.88"/>
+    <circle cx="52" cy="18" r="5" fill="#4ade80" fill-opacity="0.88"/>
+
+    <!-- Active Tab: pachara.ts -->
+    <rect x="176" y="0" width="142" height="36" fill="#0d1220"/>
+    <rect x="176" y="0" width="142" height="2" fill="#818cf8"/>
+    <text x="192" y="22" class="mono" font-size="11.5" fill="#38bdf8" font-weight="700">TS</text>
+    <text x="214" y="22" class="ui" fill="#f8fafc" font-weight="600">pachara.ts</text>
+    <circle cx="304" cy="18" r="3" fill="#818cf8"/>
+
+    <!-- Inactive Tab: stack.json -->
+    <text x="338" y="22" class="ui" fill="#64748b">stack.json</text>
+    <text x="422" y="22" class="ui" fill="#64748b">bombgrid.svg</text>
+
+    <!-- Left Sidebar Explorer -->
+    <rect x="0" y="36" width="176" height="236" fill="#0e1320"/>
+    <line x1="176" y1="36" x2="176" y2="272" stroke="#1e293b" stroke-width="1"/>
+    <text x="16" y="58" class="ui" fill="#64748b" font-weight="700" letter-spacing="0.06em">EXPLORER</text>
+    <text x="16" y="82" class="ui" fill="#cbd5e1" font-weight="600">▾ pachara-n</text>
+
+    <!-- Active File Row -->
+    <rect x="8" y="92" width="160" height="24" rx="5" fill="#1b233a"/>
+    <text x="26" y="108" class="mono" font-size="11" fill="#38bdf8" font-weight="700">TS</text>
+    <text x="46" y="108" class="ui sb-act">pachara.ts</text>
+
+    <text x="26" y="132" class="mono" font-size="11" fill="#fbbf24">{}</text>
+    <text x="46" y="132" class="ui sb-txt">stack.json</text>
+
+    <text x="26" y="156" class="mono" font-size="11" fill="#818cf8">MD</text>
+    <text x="46" y="156" class="ui sb-txt">README.md</text>
+
+    <text x="26" y="180" class="mono" font-size="11" fill="#4ade80">◈</text>
+    <text x="46" y="180" class="ui sb-txt">bombgrid.svg</text>
+
+    <text x="26" y="204" class="mono" font-size="11" fill="#94a3b8">⚙</text>
+    <text x="46" y="204" class="ui sb-txt">skills-lint.yml</text>
+
+    <!-- Line highlight on active line 9 -->
+    <rect x="177" y="225" width="722" height="22" fill="#1e293b" fill-opacity="0.45"/>
+
+    <!-- Code Gutter & Content -->
+    <g transform="translate(0, 0)">
+      <text x="206" y="64" class="ln">1</text>
+      <text x="220" y="64" class="mono cm">// Pachara Nokroy (พชร นกลอย) — Software Engineer in Thailand</text>
+
+      <text x="206" y="86" class="ln">2</text>
+      <text x="220" y="86" class="mono">
+        <tspan class="kw">export const </tspan><tspan class="id">engineer</tspan><tspan class="pun">: </tspan><tspan class="tp">FullStackDev</tspan><tspan class="pun"> = {</tspan>
+      </text>
+
+      <text x="206" y="108" class="ln">3</text>
+      <text x="236" y="108" class="mono">
+        <tspan class="pr">name</tspan><tspan class="pun">:      </tspan><tspan class="str">"Pachara Nokroy"</tspan><tspan class="pun">,  </tspan>
+        <tspan class="pr">nameTh</tspan><tspan class="pun">: </tspan><tspan class="th">"พชร นกลอย"</tspan><tspan class="pun">,</tspan>
+      </text>
+
+      <text x="206" y="130" class="ln">4</text>
+      <text x="236" y="130" class="mono">
+        <tspan class="pr">role</tspan><tspan class="pun">:      </tspan><tspan class="str">"Backend-leaning Full-Stack Developer"</tspan><tspan class="pun">,</tspan>
+      </text>
+
+      <text x="206" y="152" class="ln">5</text>
+      <text x="236" y="152" class="mono">
+        <tspan class="pr">education</tspan><tspan class="pun">: </tspan><tspan class="str">"B.Sc. Software Engineering · BUU (1st-Class Honors)"</tspan><tspan class="pun">,</tspan>
+      </text>
+
+      <text x="206" y="174" class="ln">6</text>
+      <text x="236" y="174" class="mono">
+        <tspan class="pr">coreStack</tspan><tspan class="pun">: [</tspan><tspan class="str">"TypeScript"</tspan><tspan class="pun">, </tspan><tspan class="str">"Next.js"</tspan><tspan class="pun">, </tspan><tspan class="str">"NestJS"</tspan><tspan class="pun">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="pun">, </tspan><tspan class="str">"Redis"</tspan><tspan class="pun">],</tspan>
+      </text>
+
+      <text x="206" y="196" class="ln">7</text>
+      <text x="236" y="196" class="mono">
+        <tspan class="pr">portfolio</tspan><tspan class="pun">: </tspan><tspan class="str">"https://pachara.app"</tspan><tspan class="pun">,</tspan>
+      </text>
+
+      <text x="206" y="218" class="ln">8</text>
+      <text x="220" y="218" class="mono pun">};</text>
+
+      <text x="206" y="240" class="ln" fill="#94a3b8">9</text>
+      <text x="220" y="240" class="mono">
+        <tspan class="kw">await </tspan><tspan class="id">shipReliableSystems</tspan><tspan class="pun">(</tspan><tspan class="id">engineer</tspan><tspan class="pun">);</tspan>
+      </text>
+      <rect class="cur" x="494" y="228" width="2" height="16" fill="#818cf8"/>
+    </g>
+
+    <!-- Bottom Status Bar -->
+    <rect x="0" y="272" width="900" height="24" fill="#1e1b4b"/>
+    <text x="14" y="288" class="bar-txt">⎇ main</text>
+    <text x="86" y="288" class="bar-txt" fill="#4ade80">✓ 0 errors</text>
+    <text x="648" y="288" class="bar-txt">TypeScript 5 · UTF-8 · Chonburi, TH</text>
+
+    <rect x="0.75" y="0.75" width="898.5" height="294.5" rx="11.5" fill="none" stroke="#818cf8" stroke-opacity="0.28" stroke-width="1.5"/>
+  </g>
+</svg>

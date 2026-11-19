@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 296" width="900" height="296" role="img" aria-label="VS Code editor profile of Pachara Nokroy (พชร นกลอย)">
+  <defs>
+    <clipPath id="ide-clip-l">
+      <rect x="0" y="0" width="900" height="296" rx="12"/>
+    </clipPath>
+  </defs>
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 13px; }
+    .ui { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11.5px; }
+    .th { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans Thai", Tahoma, sans-serif; font-size: 13px; fill: #4f46e5; }
+    .ln { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 12px; fill: #94a3b8; text-anchor: end; }
+    .kw { fill: #7c3aed; }
+    .tp { fill: #0284c7; }
+    .id { fill: #0f172a; }
+    .pr { fill: #1d4ed8; }
+    .str { fill: #15803d; }
+    .cm { fill: #64748b; font-style: italic; }
+    .pun { fill: #64748b; }
+    .sb-txt { fill: #475569; }
+    .sb-act { fill: #0f172a; font-weight: 600; }
+    .bar-txt { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 11px; fill: #ffffff; }
+    .cur { animation: blink 1.05s step-end infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+  </style>
+
+  <g clip-path="url(#ide-clip-l)">
+    <rect width="900" height="296" fill="#ffffff"/>
+    <rect width="900" height="36" fill="#f1f5f9"/>
+    <line x1="0" y1="36" x2="900" y2="36" stroke="#e2e8f0" stroke-width="1"/>
+    <circle cx="20" cy="18" r="5" fill="#ef4444" fill-opacity="0.85"/>
+    <circle cx="36" cy="18" r="5" fill="#f59e0b" fill-opacity="0.85"/>
+    <circle cx="52" cy="18" r="5" fill="#22c55e" fill-opacity="0.85"/>
+
+    <rect x="176" y="0" width="142" height="36" fill="#ffffff"/>
+    <rect x="176" y="0" width="142" height="2" fill="#4f46e5"/>
+    <text x="192" y="22" class="mono" font-size="11.5" fill="#0284c7" font-weight="700">TS</text>
+    <text x="214" y="22" class="ui" fill="#0f172a" font-weight="600">pachara.ts</text>
+    <circle cx="304" cy="18" r="3" fill="#4f46e5"/>
+    <text x="338" y="22" class="ui" fill="#64748b">stack.json</text>
+    <text x="422" y="22" class="ui" fill="#64748b">bombgrid.svg</text>
+
+    <rect x="0" y="36" width="176" height="236" fill="#f8fafc"/>
+    <line x1="176" y1="36" x2="176" y2="272" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="16" y="58" class="ui" fill="#64748b" font-weight="700" letter-spacing="0.06em">EXPLORER</text>
+    <text x="16" y="82" class="ui" fill="#334155" font-weight="600">▾ pachara-n</text>
+
+    <rect x="8" y="92" width="160" height="24" rx="5" fill="#eef2ff"/>
+    <text x="26" y="108" class="mono" font-size="11" fill="#0284c7" font-weight="700">TS</text>
+    <text x="46" y="108" class="ui sb-act">pachara.ts</text>
+    <text x="26" y="132" class="mono" font-size="11" fill="#d97706">{}</text>
+    <text x="46" y="132" class="ui sb-txt">stack.json</text>
+    <text x="26" y="156" class="mono" font-size="11" fill="#4f46e5">MD</text>
+    <text x="46" y="156" class="ui sb-txt">README.md</text>
+    <text x="26" y="180" class="mono" font-size="11" fill="#16a34a">◈</text>
+    <text x="46" y="180" class="ui sb-txt">bombgrid.svg</text>
+    <text x="26" y="204" class="mono" font-size="11" fill="#64748b">⚙</text>
+    <text x="46" y="204" class="ui sb-txt">skills-lint.yml</text>
+
+    <rect x="177" y="225" width="722" height="22" fill="#f1f5f9"/>
+
+    <text x="206" y="64" class="ln">1</text>
+    <text x="220" y="64" class="mono cm">// Pachara Nokroy (พชร นกลอย) — Software Engineer in Thailand</text>
+    <text x="206" y="86" class="ln">2</text>
+    <text x="220" y="86" class="mono"><tspan class="kw">export const </tspan><tspan class="id">engineer</tspan><tspan class="pun">: </tspan><tspan class="tp">FullStackDev</tspan><tspan class="pun"> = {</tspan></text>
+    <text x="206" y="108" class="ln">3</text>
+    <text x="236" y="108" class="mono"><tspan class="pr">name</tspan><tspan class="pun">:      </tspan><tspan class="str">"Pachara Nokroy"</tspan><tspan class="pun">,  </tspan><tspan class="pr">nameTh</tspan><tspan class="pun">: </tspan><tspan class="th">"พชร นกลอย"</tspan><tspan class="pun">,</tspan></text>
+    <text x="206" y="130" class="ln">4</text>
+    <text x="236" y="130" class="mono"><tspan class="pr">role</tspan><tspan class="pun">:      </tspan><tspan class="str">"Backend-leaning Full-Stack Developer"</tspan><tspan class="pun">,</tspan></text>
+    <text x="206" y="152" class="ln">5</text>
+    <text x="236" y="152" class="mono"><tspan class="pr">education</tspan><tspan class="pun">: </tspan><tspan class="str">"B.Sc. Software Engineering · BUU (1st-Class Honors)"</tspan><tspan class="pun">,</tspan></text>
+    <text x="206" y="174" class="ln">6</text>
+    <text x="236" y="174" class="mono"><tspan class="pr">coreStack</tspan><tspan class="pun">: [</tspan><tspan class="str">"TypeScript"</tspan><tspan class="pun">, </tspan><tspan class="str">"Next.js"</tspan><tspan class="pun">, </tspan><tspan class="str">"NestJS"</tspan><tspan class="pun">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="pun">, </tspan><tspan class="str">"Redis"</tspan><tspan class="pun">],</tspan></text>
+    <text x="206" y="196" class="ln">7</text>
+    <text x="236" y="196" class="mono"><tspan class="pr">portfolio</tspan><tspan class="pun">: </tspan><tspan class="str">"https://pachara.app"</tspan><tspan class="pun">,</tspan></text>
+    <text x="206" y="218" class="ln">8</text>
+    <text x="220" y="218" class="mono pun">};</text>
+    <text x="206" y="240" class="ln">9</text>
+    <text x="220" y="240" class="mono"><tspan class="kw">await </tspan><tspan class="id">shipReliableSystems</tspan><tspan class="pun">(</tspan><tspan class="id">engineer</tspan><tspan class="pun">);</tspan></text>
+    <rect class="cur" x="494" y="228" width="2" height="16" fill="#4f46e5"/>
+
+    <rect x="0" y="272" width="900" height="24" fill="#4f46e5"/>
+    <text x="14" y="288" class="bar-txt">⎇ main</text>
+    <text x="86" y="288" class="bar-txt">✓ 0 errors</text>
+    <text x="648" y="288" class="bar-txt">TypeScript 5 · UTF-8 · Chonburi, TH</text>
+
+    <rect x="0.75" y="0.75" width="898.5" height="294.5" rx="11.5" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+  </g>
+</svg>
